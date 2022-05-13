@@ -1,4 +1,4 @@
-# Paginator
+# `flask_paginate.Pagination` - Guide
 
 a Proper guide to the use flask_paginate Module
 
